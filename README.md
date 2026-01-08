@@ -11,4 +11,3 @@ Pandas | Seaborn | Matplotlib
 ## Evolução
 Projeto básico | Baseado em "A Arte da Estatística".
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CauDevData/ESTATISTICA-tips-EDA/main)  
